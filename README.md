@@ -2,9 +2,11 @@
   <h1> Hello devs, I'm Felipe Poter. Welcome to my profile!</h1>
 </div>
 
-- 👀 I’m interested in game develop
-- 🌱 I’m currently learning programing
-- 💻 I'm a beginner programmer
+<img src="AvatarMaker.png" alt="Meu avatar">
+
+- 👀 I’m interested in game develop. 
+- 🌱 I’m currently learning programing.
+- 💻 I'm a beginner programmer.
 <!---
 FelipePoter/FelipePoter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
