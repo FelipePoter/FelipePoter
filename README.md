@@ -4,9 +4,9 @@
 
 <img src="AvatarMaker-github.png" alt="My avatar">
 
-- 👀 I’m interested in game develop. 
-- 🌱 I’m currently learning programing.
-- 💻 I'm a beginner programmer.
+  - <h3>👀 I’m interested in game develop.</h3>
+  - <h3>🌱 I’m currently learning programing.</h3>
+  - <h3>💻 I'm a beginner programmer.</h3>
 <!---
 FelipePoter/FelipePoter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
