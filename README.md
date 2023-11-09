@@ -2,7 +2,7 @@
   <h1> Hello devs, I'm Felipe Poter. Welcome to my profile!</h1>
 </div>
 
-<img src="AvatarMaker.png" alt="Meu avatar">
+<img src="AvatarMaker-github.png" alt="My avatar">
 
 - 👀 I’m interested in game develop. 
 - 🌱 I’m currently learning programing.
