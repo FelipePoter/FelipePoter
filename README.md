@@ -11,6 +11,8 @@
 FelipePoter/FelipePoter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<h2>My Github Stats</h2>
+
 <div align="center">
   <a href="https://github.com/FelipePoter">
    <div align="center"> <a href="https://github.com/FelipePoter"> <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=FelipePoter&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
