@@ -29,21 +29,24 @@ You can click the Preview link to take a look at your changes.
 
 <div align="left">
   <a href="https://github.com/FelipePoter">
-   <div align="center"> <a href="https://github.com/FelipePoter"> <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=FelipePoter&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+   <div align="left"> <a href="https://github.com/FelipePoter"> <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=FelipePoter&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
 </div>
 <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=FelipePoter&layout=compact&langs_count=7&theme=dracula"/>
+   </div>
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-</picture>
+<div align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="github contribution grid snake animation"
+      src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+    />
+  </picture>
+    </div>
