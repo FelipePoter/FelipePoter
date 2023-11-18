@@ -12,7 +12,7 @@ FelipePoter/FelipePoter is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-<h2>🦄 Linguagens:</h2>
+<h2>🦄 Languages:</h2>
 
 <p align="left">
 <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="HTML"/>
