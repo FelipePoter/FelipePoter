@@ -4,6 +4,8 @@
 
 <img src="AvatarMaker-github.png" alt="My avatar">
 
+<h1>About Me</h1>
+
   - <h3>👀 I’m interested in game develop.</h3>
   - <h3>🌱 I’m currently learning programing.</h3>
   - <h3>💻 I'm a beginner programmer.</h3>
