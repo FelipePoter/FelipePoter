@@ -25,7 +25,7 @@ You can click the Preview link to take a look at your changes.
 
 <h2>My Github Stats</h2>
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="350px" max-width="350px" width="350px" align="right">
 
 <div align="left">
   <a href="https://github.com/FelipePoter">
