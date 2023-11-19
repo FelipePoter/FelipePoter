@@ -65,3 +65,7 @@ You can click the Preview link to take a look at your changes.
     />
   </picture>
     </div>
+
+![](https://komarev.com/ghpvc/?username=FelipePoter&color=red&style=flat-square&label=PROFILE+VIEWS)
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6109F4&height=120&section=footer"/>
