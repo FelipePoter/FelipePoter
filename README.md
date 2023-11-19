@@ -14,7 +14,7 @@ FelipePoter/FelipePoter is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-<h2>🦄 Languages:</h2>
+<h1>🦄 Languages:</h1>
 
 <p align="left">
 <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="HTML"/>
@@ -23,14 +23,14 @@ You can click the Preview link to take a look at your changes.
 <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" alt="Markdown"/>
 </p>
 
-<h3>Studying:</h3>
+<h2>Studying:</h2>
 
 <p align="left">
 <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="Javascript"/>
 <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" alt="Markdown"/>
 </p>
 
-<h2>Tools:</h2>
+<h1>Tools:</h1>
 
 <p align="left">
 <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="Github"/>
@@ -38,7 +38,7 @@ You can click the Preview link to take a look at your changes.
 <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Vscode"/>
 </p>
 
-<h2>My Github Stats</h2>
+<h1>My Github Stats</h1>
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="350px" max-width="350px" width="350px" align="right">
 
