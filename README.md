@@ -2,7 +2,7 @@
   <h1> Hello devs, I'm Felipe Poter. Welcome to my profile!</h1>
 </div>
 
-<img src="AvatarMaker-github.png" alt="My avatar">
+<img src="AvatarMaker-github.png" alt="A blond and white man with brown eyes, wearing a black suit with a black tie. And a gray arrow and written "me" also in gray.">
 
 <h1>About Me</h1>
 
@@ -68,4 +68,4 @@ You can click the Preview link to take a look at your changes.
 
 ![](https://komarev.com/ghpvc/?username=FelipePoter&color=red&style=flat-square&label=PROFILE+VIEWS)
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=cf0808&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=cf0808&height=120&section=footer" alt="Waves of blood."/>
