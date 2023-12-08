@@ -2,7 +2,7 @@
   <h1> Hello devs, I'm Felipe Poter. Welcome to my profile!</h1>
 </div>
 
-<img src="AvatarMaker-github.png" alt="A blond and white man with brown eyes, wearing a black suit with a black tie. And a gray arrow and written "me" also in gray.">
+<img src="AvatarMaker-github.png" alt="A blond and white man with brown eyes, wearing a black suit with a black tie. And a gray arrow and written me also in gray.">
 
 <h1>About Me</h1>
 
