@@ -6,9 +6,7 @@
 
 <h1>About Me</h1>
 
-  - <h3>👀 I’m interested in game develop.</h3>
-  - <h3>🌱 I’m currently learning programing.</h3>
-  - <h3>💻 I'm a beginner programmer.</h3>
+  <h3>Hello! My name is Felipe. I'm a Web Programmer and Game Dev, creator of Flyve CSS and creator of several repositories with cool projects.</h3>
 <!---
 FelipePoter/FelipePoter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -48,6 +46,8 @@ You can click the Preview link to take a look at your changes.
 </div>
 <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=FelipePoter&layout=compact&langs_count=7&theme=dracula"/>
    </div>
+
+![Github Trophies](https://github-profile-trophy.vercel.app/?username=FelipePoter&theme=dracula&column=6&row=1&margin-w=10)
 
 <div align="center">
   <picture>
