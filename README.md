@@ -6,7 +6,7 @@
 
 <h1>About Me</h1>
 
-  <h3>Hello! My name is Felipe. I'm a Web Programmer and Game Dev, creator of Flyve CSS and creator of several repositories with cool projects.</h3>
+  <h3>Hello! My name is Felipe. I'm a Web Programmer and Game Dev, creator of several repositories with cool projects.</h3>
 <!---
 FelipePoter/FelipePoter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
