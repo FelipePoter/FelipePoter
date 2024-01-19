@@ -43,10 +43,6 @@ You can click the Preview link to take a look at your changes.
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="350px" max-width="350px" width="350px" align="right">
 
 <div align="left">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=FelipePoter&theme=dracula&hide_border=true" alt="GitHub Streak" /></a>
-</div>
-
-<div align="left">
   <a href="https://github.com/FelipePoter">
    <div align="left"> <a href="https://github.com/FelipePoter"> <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=FelipePoter&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
 </div>
