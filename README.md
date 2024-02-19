@@ -35,6 +35,7 @@ You can click the Preview link to take a look at your changes.
 <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" alt="Git"/>
 <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Vscode"/>
 <img height="32" src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" alt="ChatGPT"/>
+<img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" alt="Godot"/>
 <img height="32" src="https://simpleicons.org/icons/notion.svg" alt="Notion"/>
 </p>
 
