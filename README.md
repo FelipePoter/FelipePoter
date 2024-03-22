@@ -1,5 +1,10 @@
 <div align="center">
-  <h1> Hello devs, I'm Felipe de Carvalho Hesse. Welcome to my profile!</h1>
+  <h1>
+    <a href="https://github.com/FelipePoter">
+      <img src="https://readme-typing-svg.demolab.com?font=Jet+Brains&size=36&duration=1&pause=1000&color=F73B3B&center=true&vCenter=true&repeat=false&random=false&width=560&height=32&lines=I'm+Felipe+de+Carvalho+Hesse" alt="Felipe de Carvalho Hesse"/></a>
+    <a href="https://github.com/FelipePoter">
+      <img src="https://readme-typing-svg.demolab.com?font=Jet+Brains&size=36&pause=1000&color=F73B3B&&center=true&vCenter=true&random=false&width=760&height=32&lines=Hello+World!;I'm+a+passionate+developer+from+Brazil;I'm+always+learning+new+things;Welcome+to+my+profile!" alt="Felipe's greetings"/></a>
+  </h1>
 </div>
 
 <img src="AvatarMaker-github.png" alt="A blond and white man with brown eyes, wearing a black suit with a black tie. And a gray arrow and written me also in gray.">
