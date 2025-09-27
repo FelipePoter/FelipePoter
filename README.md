@@ -11,11 +11,7 @@
 
 <h1>About Me</h1>
 
-  <h3>Hello! My name is Felipe. I'm a Web Programmer and Game Dev, creator of several repositories with cool projects.</h3>
-<!---
-FelipePoter/FelipePoter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+  <h3>Hello! My name is Felipe. I'm a Web Programmer, creator of several repositories with cool projects.</h3>
 
 <h1>Languages:</h1>
 
@@ -23,25 +19,7 @@ You can click the Preview link to take a look at your changes.
 <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="HTML"/>
 <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="Javascript"/>
 <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="CSS"/>
-<img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="CSharp"/>
-</p>
-
-<h2>Studying:</h2>
-
-<p align="left">
-<img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="Javascript"/>
-<img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="CSharp"/>
-</p>
-
-<h1>Tools:</h1>
-
-<p align="left">
-<img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="Github"/>
-<img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" alt="Git"/>
-<img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Vscode"/>
-<img height="32" src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" alt="ChatGPT"/>
-<img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" alt="Godot"/>
-<img height="32" src="https://simpleicons.org/icons/notion.svg" alt="Notion"/>
+<img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 </p>
 
 <h1>My Github Stats</h1>
